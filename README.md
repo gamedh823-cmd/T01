@@ -104,7 +104,7 @@
 - 사용 기술: PyTorch, Autoencoder, Diffusion Model
 - 최종 성과: 학습 데이터 재구성 오차율 최소화 달성
 - 상세 요약: 최신 AI 트렌드인 Diffusion 모델과 Autoencoder 구조를 융합하여 정밀한 이상 탐지(Anomaly Detection) 알고리즘을 설계했습니다. 정상 데이터의 특징을 효율적으로 학습하고, 미세한 변칙 패턴을 정확하게 잡아낼 수 있도록 네트워크 최적화 작업을 수행했습니다.
-- *[GitHub Report Access] [ANN 연구보고서 바로가기](https://github.com/gamedh823-cmd/T01/blob/84fd5e71de4e90e3b7229f3c03ed2dfaad7fb80e/ann_project.pdf.pdf)
+- [GitHub Report Access] [ANN 연구보고서 바로가기](https://github.com/gamedh823-cmd/T01/blob/84fd5e71de4e90e3b7229f3c03ed2dfaad7fb80e/ann_project.pdf.pdf)
 
 -----------------------------------------------------------------------------------------
 
