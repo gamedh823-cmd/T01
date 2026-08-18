@@ -1,18 +1,19 @@
 # [SYSTEM_VERIFICATION_LOG] YU JIWON - PORTFOLIO & EVIDENCE
 
 > System Message: 본 문서는 유지원(숭실대학교 전자정보공학부 IT융합전공)의 포트폴리오 웹사이트 검증 안내 및 프로젝트 성과 내역서입니다.
+> 검증 안내서 깃허브 링크 [https://github.com/gamedh823-cmd/T01]
+> 포트폴리오 링크 [https://gamedh823-cmd.github.io/T01/SUM.html]
 
 -----------------------------------------------------------------------------------------
 
 0. 검증 안내서 (GUIDE FOR EVALUATOR)
 
-> 본 포트폴리오 웹사이트는 원활한 검증을 위해 다음 절차를 따릅니다.
+본 포트폴리오 웹사이트는 원활한 검증을 위해 다음 절차를 따릅니다.
 
 
 1. 어디로 가나요? (접속 경로) - 2가지 경로로 접속할 수 있습니다. 
 
-- 웹 링크 접속: [https://gamedh823-cmd.github.io/T01/SUM.html]
-  (https://gamedh823-cmd.github.io/T01/SUM.html)
+- 웹 링크 접속: [https://gamedh823-cmd.github.io/T01/SUM.html](https://gamedh823-cmd.github.io/T01/SUM.html)
 - 파일 실행: 제공된 `SUM.txt` 파일을 다운로드한 후, 파일 확장자를 `.txt`에서 `.html`로 변경하여 브라우저로 드래그하면 로컬 환경에서 즉시 실행됩니다.
 
 
@@ -101,7 +102,7 @@
 - 사용 기술: PyTorch, Autoencoder, Diffusion Model
 - 최종 성과: 학습 데이터 재구성 오차율 최소화 달성
 - 상세 요약: 최신 AI 트렌드인 Diffusion 모델과 Autoencoder 구조를 융합하여 정밀한 이상 탐지(Anomaly Detection) 알고리즘을 설계했습니다. 정상 데이터의 특징을 효율적으로 학습하고, 미세한 변칙 패턴을 정확하게 잡아낼 수 있도록 네트워크 최적화 작업을 수행했습니다.
-- [GitHub Report Access] [ANN 연구보고서 바로가기](https://github.com/gamedh823-cmd/T01/blob/84fd5e71de4e90e3b7229f3c03ed2dfaad7fb80e/ann_project.pdf.pdf)
+- *[GitHub Report Access] [ANN 연구보고서 바로가기](https://github.com/gamedh823-cmd/T01/blob/84fd5e71de4e90e3b7229f3c03ed2dfaad7fb80e/ann_project.pdf.pdf)
 
 -----------------------------------------------------------------------------------------
 
