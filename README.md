@@ -1,6 +1,7 @@
 # [SYSTEM_VERIFICATION_LOG] YU JIWON - PORTFOLIO & EVIDENCE
 
 > System Message: 본 문서는 유지원(숭실대학교 전자정보공학부 IT융합전공)의 포트폴리오 웹사이트 검증 안내 및 프로젝트 성과 내역서입니다.
+
 > 검증 안내서 깃허브 링크 [https://github.com/gamedh823-cmd/T01]
 > 포트폴리오 링크 [https://gamedh823-cmd.github.io/T01/SUM.html]
 
